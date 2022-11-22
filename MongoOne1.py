@@ -6,7 +6,7 @@ print(db)
 d = {
     "shubham": "paliwal",
     "email": "geekyims@gmail.com",
-    "place": "dangarthal"
+    "place": "newai"
 }
 
 var1 = client['mongotest']

@@ -31,3 +31,4 @@ coll_d = database['MyData']
 record = coll_d.find()
 for i in record:
     print(i)
+
